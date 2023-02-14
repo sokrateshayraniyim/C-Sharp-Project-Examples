@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0\NoteTakingApp.exe
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0\NoteTakingApp.deps.json
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0\NoteTakingApp.runtimeconfig.json
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0\NoteTakingApp.dll
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\bin\Debug\net6.0\NoteTakingApp.pdb
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\NoteTakingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\NoteTakingApp.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\NoteTakingApp.AssemblyInfo.cs
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\NoteTakingApp.dll
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\refint\NoteTakingApp.dll
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\NoteTakingApp.pdb
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\NoteTakingApp.genruntimeconfig.cache
+C:\Users\Can\Desktop\masaüstü\Program\NoteTakingApp\NoteTakingApp\obj\Debug\net6.0\ref\NoteTakingApp.dll
