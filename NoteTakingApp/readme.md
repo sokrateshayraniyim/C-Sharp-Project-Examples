@@ -19,7 +19,8 @@ dotnet build
 Once the build is complete, run the following command to start the application:
 dotnet run
 ```
-#Usage
+
+##Usage
 
 When you run the application, you will see a menu with two options:
 
