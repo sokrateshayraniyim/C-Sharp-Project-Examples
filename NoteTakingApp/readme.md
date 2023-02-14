@@ -32,8 +32,8 @@ To add a note, select option 1 and follow the prompts to enter the note's title 
 
 To exit the application, select option 2.
 
-#Contributing
+## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-License
+## License
 This project is licensed under the [MIT License]("https://opensource.org/license/mit-0/").
