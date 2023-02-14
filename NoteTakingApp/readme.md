@@ -36,4 +36,4 @@ To exit the application, select option 2.
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the [MIT License]("https://opensource.org/license/mit-0/").
+This project is licensed under the [MIT License](https://opensource.org/license/mit-0/) .
