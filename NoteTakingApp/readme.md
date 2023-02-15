@@ -13,7 +13,6 @@ To run this application, you will need to have the following installed on your c
 1. Clone the repository or download the source code as a zip file.
 2. Extract as folder
 3. Go to ``` \NoteTakingApp\NoteTakingApp\bin\Debug\net6.0 ``` and run NoteTakingApp.exe
-```
 
 
 ## Usage
