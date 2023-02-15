@@ -11,13 +11,8 @@ To run this application, you will need to have the following installed on your c
 ## Installation
 
 1. Clone the repository or download the source code as a zip file.
-2. Open a terminal or command prompt and navigate to the directory where the source code is located.
-3. Run the following command to build the application:
-
-```sh
-dotnet build
-Once the build is complete, run the following command to start the application:
-dotnet run
+2. Extract as folder
+3. Go to ``` \NoteTakingApp\NoteTakingApp\bin\Debug\net6.0 ``` and run NoteTakingApp.exe
 ```
 
 
