@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aOhd9FPcb/GFCZVpctxBhhyDJniLf68B3hoa1n/an2Ij16S8r1UUQtNagcZsvg5JC2WGulUq9bL+HmV086XWJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\IpFinder\\IpFinder\\IP_to_LOCATION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\maxmind.db\\4.0.0\\maxmind.db.4.0.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\maxmind.geoip2\\5.1.0\\maxmind.geoip2.5.1.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
